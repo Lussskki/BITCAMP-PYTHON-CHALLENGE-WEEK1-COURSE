@@ -1,3 +1,4 @@
 week1- dictionaries 
 
-and about errors handling 
+1. about errors handling 
+2. dictionaries (import python builtin codes)
