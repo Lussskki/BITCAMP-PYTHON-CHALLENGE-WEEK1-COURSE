@@ -1,0 +1,4 @@
+import sayHelloMyLittilefriend
+
+sayHelloMyLittilefriend.hello()
+
